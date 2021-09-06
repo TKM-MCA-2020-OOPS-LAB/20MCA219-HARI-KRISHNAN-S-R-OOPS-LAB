@@ -1,4 +1,4 @@
-package str;
+package employee;
 
 import java.util.Scanner;
 
